@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOSKPAutoEmail", "BOSKPAutoEmail.csproj", "{0D941D3A-9ABB-4824-8B99-21E6FBF256F1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CustomlinkAgentAutoEamil", "Installer\CustomlinkAgentAutoEamil\CustomlinkAgentAutoEamil.vdproj", "{1514DA5D-22A4-4762-9308-FD91728E29EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D941D3A-9ABB-4824-8B99-21E6FBF256F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D941D3A-9ABB-4824-8B99-21E6FBF256F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D941D3A-9ABB-4824-8B99-21E6FBF256F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D941D3A-9ABB-4824-8B99-21E6FBF256F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1514DA5D-22A4-4762-9308-FD91728E29EE}.Debug|Any CPU.ActiveCfg = Debug
+		{1514DA5D-22A4-4762-9308-FD91728E29EE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

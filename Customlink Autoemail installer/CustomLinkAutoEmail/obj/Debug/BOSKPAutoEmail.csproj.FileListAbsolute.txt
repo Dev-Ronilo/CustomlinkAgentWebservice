@@ -1,0 +1,33 @@
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\bin\Debug\AutoEmailPartner.exe
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\bin\Debug\AutoEmailPartner.exe.config
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\bin\Debug\log4net.dll
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\bin\Debug\ThreadSafeCall.dll
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\obj\Debug\AutoEmailPartner.EmailMe.resources
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\obj\Debug\AutoEmailPartner.Properties.Resources.resources
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\obj\Debug\BOSKPAutoEmail.csproj.GenerateResource.Cache
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\obj\Debug\AutoEmailPartner.exe
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\obj\Debug\AutoEmailPartner.pdb
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\bin\Debug\AutoEmailPartner.pdb
+C:\Users\CADI18094625\Desktop\Auto Email Partner\AutoEmailPartner\obj\Debug\BOSKPAutoEmail.csprojResolveAssemblyReference.cache
+C:\Users\CADI18094625\Desktop\AutoEmailPartner\bin\Debug\AutoEmailPartner.exe.config
+C:\Users\CADI18094625\Desktop\AutoEmailPartner\obj\Debug\AutoEmailPartner.exe
+C:\Users\CADI18094625\Desktop\AutoEmailPartner\obj\Debug\AutoEmailPartner.pdb
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\bin\Debug\AutoEmailPartner.exe.config
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\obj\Debug\AutoEmailPartner.exe
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\obj\Debug\AutoEmailPartner.pdb
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\bin\Debug\AutoEmailPartner.exe
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\bin\Debug\AutoEmailPartner.pdb
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\bin\Debug\log4net.dll
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\bin\Debug\ThreadSafeCall.dll
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\obj\Debug\BOSKPAutoEmail.csprojResolveAssemblyReference.cache
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\obj\Debug\AutoEmailPartner.EmailMe.resources
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\obj\Debug\AutoEmailPartner.Properties.Resources.resources
+C:\Users\CADI18094625\Desktop\CustomLinkAutoEmail\obj\Debug\BOSKPAutoEmail.csproj.GenerateResource.Cache
